@@ -12,7 +12,7 @@ Linux shell.
 
 Dependencies: `python3 python3-request python3-ujson`
 
-Before launch export your API keys:
+Before launch it, export your POEditor API keys:
 
 ```
 export poeditor_api=12345678901234567890
